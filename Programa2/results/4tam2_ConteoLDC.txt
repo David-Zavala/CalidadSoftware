@@ -1,0 +1,11 @@
+CLASES BASE:
+p1/1prg_p1: T=71, I=7, B=21, D=8, M=3, A=58
+p1/CheckMethods: T=29, I=6, B=16, A=13
+--------------------------------------------
+CLASES NUEVAS:
+p1/Classes: T=64, I=1
+p1/ClassesContainer: T=53, I=1
+--------------------------------------------
+CLASES REUSADAS:
+--------------------------------------------
+Total de LDC:217

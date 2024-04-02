@@ -1,0 +1,10 @@
+CLASES BASE:
+p3/1prg_main: T=31, I=1, B=71, D=60, M=2, A=20
+--------------------------------------------
+CLASES NUEVAS:
+p3/RegressionCalculator: T=48, I=1
+--------------------------------------------
+CLASES REUSADAS:
+p3/Methods: T=7, I=1, B=7
+--------------------------------------------
+Total de LDC:86

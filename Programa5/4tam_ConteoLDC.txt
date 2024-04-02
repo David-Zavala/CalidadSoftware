@@ -1,0 +1,24 @@
+CLASES BASE:
+askForFloatInput: T=35, I=1, B=16, D=2, M=1, A=21
+askForIntInput: T=35, I=1, B=17, D=2, M=1, A=20
+main: T=6, I=1, B=6, M=3
+--------------------------------------------
+CLASES NUEVAS:
+CalculateX: T=5, I=1
+FindXBySimspsonsRule: T=12, I=1
+--------------------------------------------
+CLASES REUSADAS:
+Gamma: T=4, I=1, B=4
+GetSumEvens: T=5, I=1, B=5
+GetSumOdds: T=5, I=1, B=5
+IntegrateWithSimpsonsRule: T=13, I=1, B=13
+SimpsonsRuleIntegration: T=5, I=1, B=5
+TDistributionPDF: T=4, I=1, B=4
+convertToFloat: T=10, I=1, B=10
+convertToInt: T=13, I=1, B=13
+extractCant: T=4, I=1, B=4
+isBlank: T=5, I=1, B=5
+isNumber: T=6, I=1, B=6
+removeCommas: T=6, I=1, B=6
+--------------------------------------------
+Total de LDC:173

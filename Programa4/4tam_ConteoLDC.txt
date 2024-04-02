@@ -1,0 +1,26 @@
+CLASES BASE:
+--------------------------------------------
+CLASES NUEVAS:
+CalculateIntegrateBySimpsonsRule: T=10, I=1
+Gamma: T=4, I=1
+GetSumEvens: T=5, I=1
+GetSumOdds: T=5, I=1
+IntegrateWithSimpsonsRule: T=13, I=1
+SaveResultInCache: T=7, I=1
+SimpsonsRuleIntegration: T=5, I=1
+TDistributionPDF: T=4, I=1
+askForDof: T=17, I=1
+askForX: T=17, I=1
+convertToFloat: T=10, I=6
+convertToInt: T=13, I=1
+isNumber: T=6, I=1
+removeCommas: T=6, I=1
+main: T=6, I=1
+--------------------------------------------
+CLASES REUSADAS:
+extractCant: T=4, I=1, B=4
+fileExists: T=6, I=1, B=6
+hasCharIn: T=5, I=1, B=5
+isBlank: T=5, I=1, B=5
+--------------------------------------------
+Total de LDC:142
